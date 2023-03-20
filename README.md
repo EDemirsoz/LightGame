@@ -23,6 +23,7 @@ The LightGame project has the following features:
 The LightGame project uses the following technologies and tools:
 
 - ARM assembly language
+- C programming language
 - STM32 NUCLEO Development board
 - Light sensor
 - LED matrix

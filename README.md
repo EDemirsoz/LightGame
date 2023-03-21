@@ -57,7 +57,7 @@ To run the LightGame project locally, follow these steps:
 
 
 ## Demo
-### Easy Mode
+### Easy Difficulty
 
 
 
@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/64825806/226465246-7aa13655-d4af-44e9-
 
 
 
-### Hard Mode
+### Hard Difficulty
 
 https://user-images.githubusercontent.com/64825806/226464685-9cd7d7f4-187c-474d-be2b-ce635d77f08d.mp4
 
